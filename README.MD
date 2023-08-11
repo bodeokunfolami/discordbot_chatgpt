@@ -5,23 +5,23 @@ This is a discord bot integrated with chatgpt to create a helpful assistant on d
 ### Get started
 
 ```bash
-python -m venv .venv # creates virtual env
+python -m venv .venv # create virtual env
 ```
 
 ```bash
-source .venv/bin/activate # creates virtual env
+source .venv/bin/activate # activate virtual env
 ```
 
 or
 
 ```bash
-source .venv/scripts/activate # creates virtual env
+source .venv/scripts/activate
 ```
 
-```bash
-pip install -r requirements.txt # install requirements
-```
+````bash
+pip install -r requirements.txt # instal requirements
+r``
 
 ```bash
 python main.py # run bot
-```
+````
