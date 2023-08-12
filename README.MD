@@ -8,6 +8,8 @@ This is a discord bot integrated with chatgpt to create a helpful assistant on d
 python -m venv .venv # create virtual env
 ```
 
+##### Activate virtual env
+
 ```bash
 source .venv/bin/activate # activate virtual env
 ```
@@ -18,10 +20,12 @@ or
 source .venv/scripts/activate
 ```
 
-````bash
+#### Install dependencies
+
+```bash
 pip install -r requirements.txt # instal requirements
-r``
+```
 
 ```bash
 python main.py # run bot
-````
+```
